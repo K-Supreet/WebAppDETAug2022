@@ -17,15 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAPIClient", "Console
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoApi", "ToDoApi\ToDoApi.csproj", "{D2A37BF7-7540-4F0F-B74B-A709B2A70C8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODataDemo", "ODataDemo\ODataDemo.csproj", "{911B1D46-2196-41B7-B575-89C1F8EAD7FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ODataDemo", "ODataDemo\ODataDemo.csproj", "{911B1D46-2196-41B7-B575-89C1F8EAD7FC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OData6Demo.Api", "..\..\..\..\..\..\Downloads\OData6Demo\OData6Demo.Api\OData6Demo.Api.csproj", "{589D301A-05D1-4517-884B-0EDE23F60B1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank", "Bank\Bank.csproj", "{5170CF8A-FEF2-45E9-9C47-05D28FEDE36B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{5170CF8A-FEF2-45E9-9C47-05D28FEDE36B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankTests", "BankTests\BankTests.csproj", "{15E98259-6A82-4BB2-B6B5-073B15DFD574}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTests", "BankTests\BankTests.csproj", "{15E98259-6A82-4BB2-B6B5-073B15DFD574}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstUnitTests", "MyFirstUnitTests\MyFirstUnitTests.csproj", "{76B5043A-9253-42F5-AC6F-4E98730C8C98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstUnitTests", "MyFirstUnitTests\MyFirstUnitTests.csproj", "{76B5043A-9253-42F5-AC6F-4E98730C8C98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OData6Demo.Api", "OData6Demo.Api\OData6Demo.Api.csproj", "{109ADAB3-67DC-4E7E-B0A3-C8C60BDC8A7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,10 +65,6 @@ Global
 		{911B1D46-2196-41B7-B575-89C1F8EAD7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{911B1D46-2196-41B7-B575-89C1F8EAD7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{911B1D46-2196-41B7-B575-89C1F8EAD7FC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{589D301A-05D1-4517-884B-0EDE23F60B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{589D301A-05D1-4517-884B-0EDE23F60B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{589D301A-05D1-4517-884B-0EDE23F60B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{589D301A-05D1-4517-884B-0EDE23F60B1F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5170CF8A-FEF2-45E9-9C47-05D28FEDE36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5170CF8A-FEF2-45E9-9C47-05D28FEDE36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5170CF8A-FEF2-45E9-9C47-05D28FEDE36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -81,6 +77,10 @@ Global
 		{76B5043A-9253-42F5-AC6F-4E98730C8C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76B5043A-9253-42F5-AC6F-4E98730C8C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76B5043A-9253-42F5-AC6F-4E98730C8C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{109ADAB3-67DC-4E7E-B0A3-C8C60BDC8A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{109ADAB3-67DC-4E7E-B0A3-C8C60BDC8A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{109ADAB3-67DC-4E7E-B0A3-C8C60BDC8A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{109ADAB3-67DC-4E7E-B0A3-C8C60BDC8A7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
