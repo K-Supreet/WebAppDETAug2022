@@ -27,6 +27,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstUnitTests", "MyFirst
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OData6Demo.Api", "OData6Demo.Api\OData6Demo.Api.csproj", "{109ADAB3-67DC-4E7E-B0A3-C8C60BDC8A7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDDemo", "TDDDemo\TDDDemo.csproj", "{4E5F850D-0CF8-4FE4-8992-B512EAE12238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAPI", "LibraryAPI\LibraryAPI.csproj", "{74FB0324-EAAB-48F9-8982-61504503DC7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{109ADAB3-67DC-4E7E-B0A3-C8C60BDC8A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{109ADAB3-67DC-4E7E-B0A3-C8C60BDC8A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{109ADAB3-67DC-4E7E-B0A3-C8C60BDC8A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E5F850D-0CF8-4FE4-8992-B512EAE12238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5F850D-0CF8-4FE4-8992-B512EAE12238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5F850D-0CF8-4FE4-8992-B512EAE12238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5F850D-0CF8-4FE4-8992-B512EAE12238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74FB0324-EAAB-48F9-8982-61504503DC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74FB0324-EAAB-48F9-8982-61504503DC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74FB0324-EAAB-48F9-8982-61504503DC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74FB0324-EAAB-48F9-8982-61504503DC7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
